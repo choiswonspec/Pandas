@@ -29,7 +29,7 @@ pd.options.display.max_columns = 100
 - Series  -  1차원 list 활용
 - DataFrame  -  2차원 list 활용
 
-[기본 구조 Series, DataFrame(Matrix)](https://www.notion.so/Series-DataFrame-Matrix-51dde18b735e4f6a9cd605dae141e90d)
+  [기본 구조 Series, DataFrame(Matrix)](https://www.notion.so/Series-DataFrame-Matrix-51dde18b735e4f6a9cd605dae141e90d)
 
 ### 파일 3, 4. Data Handling
 
