@@ -33,10 +33,15 @@ pd.options.display.max_columns = 100
 
 ### 파일 3, 4. Data Handling
 
-- Pivot Table
-- Group by
+
 
 [Data Handling Part. 1](https://www.notion.so/Data-Handling-Part-1-3d7a6c4f833643eda0736961c97dae12)
 
+- 자주 사용하는 함수들.
+
 [Data Handling Part. 2 ](https://www.notion.so/Data-Handling-Part-2-a61f630618fb4531b6091a546196410c)
+
+- Pivot Table
+- Group by
+- DataFrame 재구조화 관련 함수
 
